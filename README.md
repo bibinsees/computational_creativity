@@ -1,4 +1,4 @@
-AI Art colection
+AI Art collection
 https://opensea.io/collection/cryospheres/overview
 
 # cv_please: Game built using Rosebud.ai
