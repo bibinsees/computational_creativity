@@ -1,3 +1,9 @@
-# Fake ID's of collegues where created using Face swap (https://huggingface.co/spaces/tuan2308/face-swap) and https://ipiccy.com/app#editor
+# Fake ID's of collegues where created using Face Swap (https://huggingface.co/spaces/tuan2308/face-swap) and iPiccy (https://ipiccy.com/app#editor)
 ![usula](https://github.com/user-attachments/assets/e1a99d4e-7114-4b6b-b4e1-9800d695b02c)
 ![prof Gaga](https://github.com/user-attachments/assets/9b8d4492-caff-4005-8e54-d692f42843e7)
+![prof Javan](https://github.com/user-attachments/assets/f2d5aa5d-7670-4d22-9a3c-af0bc54a855c)
+![franika](https://github.com/user-attachments/assets/b2a4ee84-3b2a-4aa4-890f-9dba97e0ed0e)
+![Yezi](https://github.com/user-attachments/assets/5bff368b-5f4d-4d3e-806f-ae1e6130ea61)
+![bibi](https://github.com/user-attachments/assets/8fd5a23e-15ac-4fd4-8ac7-f64b4c5028bd)
+![phipp](https://github.com/user-attachments/assets/67156963-e0b1-4f66-93f2-910124bfee7c)
+![prof](https://github.com/user-attachments/assets/aae94d0d-d5ca-4184-8427-784da0728812)
